@@ -56,8 +56,8 @@ dispatch_semaphore_signal(semaphore);
         NSLog(@"2");
     });
     
-    NSLog(@"3");
-    
+    NSLog(@"355555");
+    NSLog(@"4");
     
 }
 
